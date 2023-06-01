@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "ALX"
+^C
+root@66299974e720:/alx-pre_course/0x01-git/bash# clear
+reset
+^C
+root@66299974e720:/alx-pre_course/0x01-git/bash# clear
+
